@@ -34,7 +34,8 @@ Sinta-se à vontade para contribuir com novas funcionalidades, como:
 
 **Créditos:**
 
-* **Desenvolvido por:** Rodrigo Mouris
+* **Desenvolvido por:** Rodrigo Moura
 * **Contato:** rodrigomouris@gmail.com
+* **Link Vercel** https://lol-five-nu.vercel.app/
 
 **Vamos juntos dominar a Summoner's Rift!**
